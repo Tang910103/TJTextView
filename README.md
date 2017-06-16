@@ -1,6 +1,6 @@
 # TJTextView
 TJTextView 支持动态高度、最大高度、最小高度、最大长度限制
-##功能简介
+##功能简介<br>
   1.TJTextView 是UITextView的派生类，支持UITextView所有特性；
   2.新增placeholder功能，可自定义placeholder颜色，支持xib；
   3.新增动态高度功能，可自定义限制最小、最大高度，支持xib；
